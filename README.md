@@ -14,8 +14,8 @@ Donc:
 * 1! vaut 1
 * 2! vaut 2
 * 3! vaut 6
-* 4! vaut 24!
-* 5! vaut 120!
+* 4! vaut 24
+* 5! vaut 120
 
 Différentes méthodes de résolution existent (extraits de vos travaux en dojo) !
 
