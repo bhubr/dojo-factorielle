@@ -21,6 +21,7 @@ Différentes méthodes de résolution existent (extraits de vos travaux en dojo)
 
 ## Boucle "descendante"
 
+
 ```javascript
 const factorielle = (nombre) => {
   let resultat = nombre
@@ -32,6 +33,18 @@ const factorielle = (nombre) => {
     resultat *= i
   }
 return resultat
+}
+```
+
+## Boucle "montante"
+
+```javascript
+function factorial(n) {
+  let resultat = 1
+  for (let i = 0 ; i < n ; i++) {
+    resultat = resultat * (i+1)
+  }
+  return  resultat
 }
 ```
 
